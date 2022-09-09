@@ -2,9 +2,9 @@ name: Intro-to-Terraform-Cloud
 class: center,middle,title-slide
 count: false
 <br><br>
-![:scale 60%](images/tf_aws.png)
+![:scale 70%](images/tf_cdw.png)
 <br><br>
-# Terraform Cloud on AWS
+# Taking Control of your Cloud with Terraform
 
 ???
 **Welcome to the Terraform Cloud on AWS workshop. This is a one day workshop that introduces free and paid features of Terraform Cloud, including Terraform Cloud for Business, using an AWS-based application for the tech labs. If you're brand new to Terraform you should try the Introduction to Terraform OSS on AWS Instruqt track before this one.**
@@ -36,12 +36,13 @@ https://hashicorp.atlassian.net/wiki/spaces/SE/pages/511574174/Instruqt+and+Rema
 layout: true
 
 .footer[
-- Copyright © 2021 HashiCorp
-- ![:scale 100%](https://hashicorp.github.io/field-workshops-assets/assets/logos/HashiCorp_Icon_Black.svg)
+- Copyright © 2022 HashiCorp
+- ![:scale 100%](images/cdw-hashi-logos.png)
 ]
 
 ---
 name: Introductions
+exclude: true
 # Introductions
 - Your Name
 - Job Title
@@ -59,6 +60,8 @@ Now introduce yourself, tell a story, give the audience something to think about
 
 ---
 name: tfc-link-to-slide-deck
+exclude: true
+
 # The Slide Deck
 <br><br><br>
 .center[
@@ -552,6 +555,8 @@ The reason for the stern warning is because users have been copying this .terraf
 
 ---
 name: lab-exercise-0
+exclude: true
+
 # 👩‍💻 Getting Started with Instruqt
 <br><br>
 [Instruqt](https://instruqt.com) is the HashiCorp training platform. Visit the link below for a short tutorial, or if you're already familiar with Instruqt you can skip to the next slide.
